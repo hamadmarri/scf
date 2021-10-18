@@ -5,7 +5,7 @@ this tools is an adjustment of sct in which it allows you to set rgb values to t
 Sometimes you want a greenish/bluesh color on your screen as a screen filter.
 
 ## Usage Example
-./sct 0.585 1.0 0.927
+`./sct 0.585 1.0 0.927`
 
 
 ## Build
